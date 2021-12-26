@@ -1,3 +1,4 @@
+<hr>
 <div align="center">
   <h3>Hi there!</h3>
 <img src="smug.jpg"  width="250">
@@ -22,6 +23,8 @@
 <a href="mailto:joshua.macauley@tutanota.com" target="_blank">
 <img src="https://img.shields.io/badge/email me-100000?style=for-the-badge&logo=Tutanota&logoColor=FFFFFF&labelColor=111318&color=4C86B8">
 </a>
+
+<br><hr>
 
 <!-- 
   Badges made with

@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Hi there!</h3>
-<img src="smug.jpg"  width="250">
+<img src="denoise-min.png">
 <hr>
 </div>
 

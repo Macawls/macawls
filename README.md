@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/My_blog-100000?style=for-the-badge&logo=About.me&logoColor=FFFFFF&labelColor=111318&color=fee761">
 </a>
 
-<a href="mailto:joshua.macauley@tutanota.com" target="_blank">
+<a href="mailto:josh@macawls.dev" target="_blank">
 <img src="https://img.shields.io/badge/email me-100000?style=for-the-badge&logo=Tutanota&logoColor=FFFFFF&labelColor=111318&color=fee761">
 </a>
 

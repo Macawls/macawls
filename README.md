@@ -1,6 +1,5 @@
 
 <div align="center">
-  <h1>Hi There! ^~^</h1>
   <img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
   <hr>
   <img src="denoise-min.png">
@@ -9,8 +8,8 @@
 
 <div align="left">
   <img src="sleeping.gif" align="right" width="150">
-  <p>I'm Josh. I go by Macawls online. I do stuff sometimes.
-    <br>If you would like to contact or know a little bit more about me, feel free to check out the links below.</p><br>
+  <p>I'm Josh. I go by Macawls online.
+  <br>If you would like to contact or know a little bit more about me, feel free to check out the links below.</p><br>
 </div>
 
 <!-- links -->

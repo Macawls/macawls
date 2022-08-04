@@ -1,8 +1,5 @@
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
-  <hr>
-  <img src="denoise-min.png">
+<img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
 <hr>
 </div>
 
@@ -35,5 +32,13 @@
   Badges made with
   https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/
 -->
+
+
+<div align="center">
+  <img src="denoise-min.png">
+</div>
+  
+
+
 
 

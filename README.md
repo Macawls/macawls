@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=100&background=1F2430&center=true&vCenter=true&width=1000&height=60&lines=Oceans+47+%F0%9F%8C%8A" alt="Typing SVG" /></a>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
 <hr>
@@ -33,12 +35,6 @@
   https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/
 -->
 
+<div align="center"> <img src="denoise-min.png"><br><br></div>
 
-<div align="center">
-  <img src="denoise-min.png">
-</div>
-  
-
-
-
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31o7peloe4i6yfnxmmdwrydcgo34&count=3&width=1000)

@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/My_blog-100000?style=for-the-badge&logo=About.me&logoColor=FFFFFF&labelColor=1f2430&color=f4cd7c">
 </a>
 
-<a href='https://www.linkedin.com/in/joshua-macauley-17a004225/' target="_blank">
+<a href='https://www.linkedin.com/in/joshua-macauley/' target="_blank">
   <img src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=1f2430&color=f4cd7c'/>
 </a>
 

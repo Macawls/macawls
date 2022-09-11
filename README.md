@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=100&background=1F2430&center=true&vCenter=true&width=1000&height=60&lines=Oceans+47+%F0%9F%8C%8A" alt="Typing SVG" /></a>
-
+<hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
 <hr>
@@ -7,8 +6,8 @@
 
 <div align="left">
   <img src="sleeping.gif" align="right" width="150">
-  <p>I'm Josh. I go by Macawls online.
-  <br>If you would like to contact or know a little bit more about me, feel free to check out the links below.</p><br>
+  <p>I'm Josh. I go by Macawls online :)
+  <br>Feel free to check out some of my social links below ^~^</p><br>
 </div>
 
 <!-- links -->
@@ -40,7 +39,3 @@
   Badges made with
   https://shivamkapasia-developer-edition.ap16.force.com/Badges4Me/s/
 -->
-
-<div align="center"> <img src="denoise-min.png"><br><br></div>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31o7peloe4i6yfnxmmdwrydcgo34&count=3&width=1000)

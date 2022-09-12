@@ -7,6 +7,7 @@
 <div align="left">
   <img src="sleeping.gif" align="right" width="150">
   <p>I'm Josh. I go by Macawls online :)
+  <p>I am a second year game development student.
   <br>Feel free to check out some of my social links below ^~^</p><br>
 </div>
 

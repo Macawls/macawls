@@ -1,14 +1,11 @@
 <hr>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=macawls&show_icons=true&theme=ayu-mirage">
-<hr>
-</div>
 
 <div align="left">
   <img src="sleeping.gif" align="right" width="150">
-  <p>I'm Josh. I go by Macawls online :)
-  <p>I am a second year game development student.
-  <br>Feel free to check out some of my social links below ^~^</p><br>
+    <div>   
+      <p> I'm Josh
+      <p> I'm interested in many technologies ^~^
+   <div>
 </div>
 
 <!-- links -->
@@ -26,12 +23,6 @@
 
 <a href="mailto:josh@macawls.dev" target="_blank">
 <img src="https://img.shields.io/badge/email me-100000?style=for-the-badge&logo=Tutanota&logoColor=FFFFFF&labelColor=1f2430&color=f4cd7c">
-</a>
-
-
-
-<a href="https://steamcommunity.com/id/macawls" target="_blank">
-<img src="https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=Steam&logoColor=white&labelColor=1f2430&color=f4cd7c">
 </a>
 
 <br><hr>

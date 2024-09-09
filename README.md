@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/WEBSITE-100000?style=for-the-badge&logo=about.me&logoColor=61afef&labelColor=1f2430&color=1f2430"> 
 </a>
 
-<a href="https://macawls.dev/blog/" target="_blank">
+<a href="https://macawls.github.io/blog/" target="_blank">
 <img src="https://img.shields.io/badge/blog-100000?style=for-the-badge&logo=About.me&logoColor=61afef&labelColor=1f2430&color=1f2430">
 </a>
 

@@ -6,7 +6,7 @@
 
 <div align="left">
   <img src="sleeping.gif" align="right" width="150">
-  <p>I'm interested in many technologies :)</p><br>
+  <p>Game and Web Developer</p><br>
 </div>
 
 <!-- links -->

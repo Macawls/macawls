@@ -5,7 +5,6 @@
 </div>
 
 <div align="left">
-  <img src="sleeping.gif" align="right" width="150">
   <p>Game and Web Developer</p><br>
 </div>
 
@@ -19,7 +18,7 @@
 </a>
 
 <a href="mailto:josh@macawls.dev" target="_blank">
-<img src="https://img.shields.io/badge/Email me-100000?style=for-the-badge&logo=Tutanota&logoColor=61afef&labelColor=1f2430&color=1f2430">
+<img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=Tutanota&logoColor=61afef&labelColor=1f2430&color=1f2430">
 </a>
 
 <br><hr>
